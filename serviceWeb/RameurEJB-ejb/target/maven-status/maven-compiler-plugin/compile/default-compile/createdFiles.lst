@@ -1,0 +1,5 @@
+ear\session\UtilisateurLocal.class
+ear\entity\Utilisateur.class
+ear\session\UtilisateurRemote.class
+ear\entity\Utilisateur$QN.class
+ear\session\UtilisateurBean.class

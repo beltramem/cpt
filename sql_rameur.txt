@@ -1,0 +1,12 @@
+-- création table
+
+CREATE table utilisateur
+(
+	identifiant varchar(20) PRIMARY KEY,
+    mdp varchar(20) not null,
+    nom varchar(20) not null,
+    prenom varchar(20) not null,
+    date_naissance date not null,
+    poids double not null,
+    taille double not null
+)

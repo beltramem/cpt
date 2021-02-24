@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RameurEJB-ear/BanqueEJB-ear.iml" filepath="$PROJECT_DIR$/RameurEJB-ear/BanqueEJB-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RameurEJB.iml" filepath="$PROJECT_DIR$/RameurEJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RameurEJB-ejb/RameurEJB-ejb.iml" filepath="$PROJECT_DIR$/RameurEJB-ejb/RameurEJB-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RameurEJB-web/RameurEJB-web.iml" filepath="$PROJECT_DIR$/RameurEJB-web/RameurEJB-web.iml" />
+    </modules>
+  </component>
+</project>
