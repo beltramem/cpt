@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BanqueEJB-ear" />
+        <module name="RameurEJB-web" />
+        <module name="RameurEJB-ejb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BanqueEJB-ear" target="1.7" />
+      <module name="BanqueEJB-ejb" target="1.7" />
+      <module name="RameurEJB" target="1.7" />
+      <module name="RameurEJB-ear" target="1.7" />
+      <module name="RameurEJB-ejb" target="1.7" />
+      <module name="RameurEJB-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
