@@ -10,11 +10,11 @@ public class Activite_calories extends Type_activite {
     @Column
     private double calorie_brulee;
 
-    public double getDistance() {
+    public double getCalorie_brulee() {
         return calorie_brulee;
     }
 
-    public void setDistance(double calorie_brulee) {
+    public void setCalorie_brulee(double calorie_brulee) {
         this.calorie_brulee = calorie_brulee;
     }
 
