@@ -55,7 +55,7 @@ public class UtilisateurBean  implements  UtilisateurLocal, UtilisateurRemote{
         if (utilisateur.size() == 0) {
             throw new RuntimeException("compte introuvable");
         }
-        if (utilisateur.get(0).getMdp()==mdp)
+        if (utilisateur.get(0).getMdp().equals(mdp))
         {
             return utilisateur.get(0);
         }

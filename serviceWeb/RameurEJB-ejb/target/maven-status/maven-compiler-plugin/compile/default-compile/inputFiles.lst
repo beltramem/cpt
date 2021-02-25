@@ -1,4 +1,10 @@
 D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\session\UtilisateurLocal.java
+D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\entity\Mesure_moyenne.java
+D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\entity\Course.java
 D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\entity\Utilisateur.java
 D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\session\UtilisateurRemote.java
+D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\entity\Entrainement.java
+D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\entity\Mesure.java
 D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\session\UtilisateurBean.java
+D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\entity\Type_activite.java
+D:\cours\M2\projet\serviceWeb\RameurEJB-ejb\src\main\java\ear\entity\Activite_calories.java

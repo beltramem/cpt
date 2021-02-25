@@ -136,6 +136,15 @@ create table participe_course
 	foreign key (utilisateur) references utilisateur(identifiant),
 	PRIMARY KEY (utilisateur, course)
 )
+
+create table participe_entrainement
+(
+	utilisateur varchar(20) not null,
+	entrainement int not null,
+	foreign key (entrainement) references entrainement(id),
+	foreign key (utilisateur) references utilisateur(identifiant),
+	PRIMARY KEY (utilisateur, entrainement)
+)
 --creation  fonction
 
 
